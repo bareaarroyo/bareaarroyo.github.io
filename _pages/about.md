@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Cognitive Science"
+title: "Paula Barea-Arroyo - Cognitive Science"
 author_profile: true
 redirect_from: 
   - /about/
