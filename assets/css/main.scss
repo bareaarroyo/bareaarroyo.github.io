@@ -41,3 +41,15 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+/* Empuja el footer siempre al fondo */
+.page,
+.page__inner-wrap {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.page__content {
+  flex: 1;
+}
+``
