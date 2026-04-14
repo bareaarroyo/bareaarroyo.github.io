@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 PhD Candidate focused on concept formation and categorization in non-verbal autism, exploring how cognition is structured in the absence of language.
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 ``
 
 
